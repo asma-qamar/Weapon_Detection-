@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.weights
+Client_Side/weights/*.weights
+__pycache__/
+*.pyc
